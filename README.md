@@ -164,9 +164,5 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 </p>
 
 <p align="center">
-<<<<<<< HEAD
-  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:11 CET</sub>
-=======
-  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:01 CET</sub>
->>>>>>> refs/remotes/origin/main
+  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:16 CET</sub>
 </p>
