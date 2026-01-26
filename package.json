@@ -1,0 +1,27 @@
+{
+  "name": "panpawka-profile",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for GitHub Profile using Actions, JavaScript and Mustache",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panpawka/panpawka.git"
+  },
+  "keywords": [
+    "readme",
+    "github",
+    "actions",
+    "dynamic",
+    "profile"
+  ],
+  "author": "Pawel Szpiczakowski <p.szpiczakowski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mustache": "^4.2.0"
+  }
+}
