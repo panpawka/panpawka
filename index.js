@@ -3,6 +3,7 @@ const Mustache = require('mustache');
 const fs = require('fs');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
+const POSTS_DATA_DIR = './posts.json';
 
 let DATA = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
@@ -15,6 +16,15 @@ let DATA = {
     timeZone: 'Europe/Warsaw',
   }),
 };
+
+// Load recent posts if they exist
+try {
+  const postsJson = fs.readFileSync(POSTS_DATA_DIR, 'utf8');
+  const postsData = JSON.parse(postsJson);
+  DATA.recent_posts = postsData.recent_posts || [];
+} catch (e) {
+  DATA.recent_posts = [];
+}
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
