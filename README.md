@@ -167,7 +167,7 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 - Developing full-stack applications with React, TypeScript, Python, and modern cloud-native patterns
 
 **CTO | Pixel Perfect Dude** (Jan 2022 - Present)
-- Leading Unity/C# development for multi-platform games (mobile, PC, console - #DRIVE & #DRIVE Rally)
+- Leading Unity/C# development for multi-platform games (mobile, PC, console)
 - Implementing CI/CD pipelines with GitHub Actions and Fastlane
 - Driving applied AI R&D and internal tooling development
 
@@ -196,5 +196,5 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 </p>
 
 <p align="center">
-  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 12:49 CET</sub>
+  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:01 CET</sub>
 </p>
