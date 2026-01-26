@@ -10,13 +10,6 @@ I'm a **Product Owner** and **Technical Lead** with over a decade of experience 
 
 Based in **Wroclaw, Poland**, I'm the founder of **Lemonode**, where I architect and ship AI-powered SaaS products from concept to production. My work spans LLM integrations, agentic AI workflows, full-stack development, and automated deployment pipelines.
 
-### What I Do
-
-- **Applied AI & Automation**: Building LLM-powered systems, conversational AI agents, RAG implementations, and agentic workflows that cut manual work by 30%+
-- **Product Ownership**: End-to-end product responsibility from discovery to launch, managing roadmaps, stakeholder communication, and continuous improvement
-- **Full-Stack Development**: Architecting scalable applications with TypeScript/React, Python, Node.js, and cloud-native patterns
-- **Technical Leadership**: Leading cross-functional teams, establishing CI/CD pipelines, and driving technical-business alignment
-
 ### Tech Stack
 
 <p>
@@ -59,68 +52,48 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 <table>
   <thead>
     <tr>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-      <td><b>Tech Stack</b></td>
-      <td><b>Repo</b></td>
+      <td><b>🚀 Project</b></td>
+      <td><b>📝 Description</b></td>
+      <td><b>⚡ Tech Stack</b></td>
+      <td><b>🔒 Visibility</b></td>
     </tr>
   </thead>
   <tbody>
-    <!-- Private Projects -->
     <tr>
       <td><b>Multi-Tenant Registry Platform</b></td>
-      <td>Full-stack SaaS with complex data architecture, multi-level organizations, subscription billing, and public/private profile system</td>
+      <td><i>Full-stack SaaS with complex data architecture, multi-level organizations, subscription billing, and public/private profile system</i></td>
       <td>Wasp, React, TypeScript, PostgreSQL, Prisma, Stripe, AWS S3</td>
-      <td>Private</td>
+      <td><img src="https://img.shields.io/badge/Private-red?style=flat-square" alt="Private" /></td>
     </tr>
     <tr>
       <td><b>AI Content Generator</b></td>
-      <td>Platform with AI-powered structured data extraction, URL scraping, and automated content processing</td>
+      <td><i>Platform with AI-powered structured data extraction, URL scraping, and automated content processing</i></td>
       <td>Wasp, React, TypeScript, OpenAI API, Jina.ai, PostgreSQL</td>
-      <td>Private</td>
+      <td><img src="https://img.shields.io/badge/Private-red?style=flat-square" alt="Private" /></td>
     </tr>
     <tr>
       <td><b>AI Analytics SaaS</b></td>
-      <td>Platform with sentiment analysis, aspect-based mining, automated AI response generation, and multi-language support</td>
+      <td><i>Platform with sentiment analysis, aspect-based mining, automated AI response generation, and multi-language support</i></td>
       <td>Wasp, React, TypeScript, OpenAI API, PostgreSQL, Stripe, Vercel AI SDK</td>
-      <td>Private</td>
+      <td><img src="https://img.shields.io/badge/Private-red?style=flat-square" alt="Private" /></td>
     </tr>
     <tr>
       <td><b>Content Automation Microservice</b></td>
-      <td>Backend service for automated content creation and distribution with AI copywriting and template-based generation</td>
+      <td><i>Backend service for automated content creation and distribution with AI copywriting and template-based generation</i></td>
       <td>FastAPI, Python, Supabase, OpenAI API, AWS S3, Docker</td>
-      <td>Private</td>
+      <td><img src="https://img.shields.io/badge/Private-red?style=flat-square" alt="Private" /></td>
     </tr>
     <tr>
       <td><a href="https://stagio.lemonode.pl"><b>Stagio</b></a></td>
-      <td>AI-powered real estate photo editor with instant enhancement, curated style templates, and video generation</td>
+      <td><i>AI-powered real estate photo editor with instant enhancement, curated style templates, and video generation</i></td>
       <td>Wasp, React, TypeScript, Generative AI, Remotion, PostgreSQL, Stripe</td>
-      <td>Private</td>
+      <td><img src="https://img.shields.io/badge/Private-red?style=flat-square" alt="Private" /></td>
     </tr>
-    <!-- Public Projects -->
     <tr>
       <td><a href="https://github.com/panpawka/Mainty"><b>Mainty</b></a></td>
-      <td>AI maintenance agent for property management with RAG, tool calling, and automated contractor dispatch</td>
+      <td><i>AI maintenance agent for property management with RAG, tool calling, and automated contractor dispatch</i></td>
       <td>React, TypeScript, Express, OpenAI API, Vite, Tailwind CSS</td>
-      <td>Public</td>
-    </tr>
-    <tr>
-      <td><a href="http://ogrod-zenka.web.lemonode.pl/"><b>Ogród Zenka</b></a></td>
-      <td>Modern website for local organic farm with content management, blog, and contact forms</td>
-      <td>Astro 5, TypeScript, Tailwind CSS, DaisyUI</td>
-      <td>Public</td>
-    </tr>
-    <tr>
-      <td><a href="https://violrysuje.pl"><b>violrysuje</b></a></td>
-      <td>Portfolio website for custom portrait artist with gallery filtering, blog, and pricing calculator</td>
-      <td>Astro 5, TypeScript, Tailwind CSS, DaisyUI, MDX, Cloudflare Pages</td>
-      <td>Public</td>
-    </tr>
-    <tr>
-      <td><a href="https://zootek.pl"><b>Zootek</b></a></td>
-      <td>Website with multi-author support, search functionality, and content management</td>
-      <td>Astro 5, TypeScript, Tailwind CSS, React</td>
-      <td>Public</td>
+      <td><img src="https://img.shields.io/badge/Public-brightgreen?style=flat-square" alt="Public" /></td>
     </tr>
   </tbody>
 </table>
@@ -167,7 +140,7 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 - Developing full-stack applications with React, TypeScript, Python, and modern cloud-native patterns
 
 **CTO | Pixel Perfect Dude** (Jan 2022 - Present)
-- Leading Unity/C# development for multi-platform games (mobile, PC, console - #DRIVE & #DRIVE Rally)
+- Leading Unity/C# development for multi-platform games (mobile, PC, console)
 - Implementing CI/CD pipelines with GitHub Actions and Fastlane
 - Driving applied AI R&D and internal tooling development
 
@@ -184,11 +157,6 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
   <a href="mailto:p.szpiczakowski@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-**Contact:**
-- Email: p.szpiczakowski@gmail.com
-- X (Twitter): [@panpawka](https://x.com/panpawka)
-- Location: Wroclaw, Poland
-
 ---
 
 <p align="center">
@@ -196,5 +164,5 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 </p>
 
 <p align="center">
-  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 12:49 CET</sub>
+  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:11 CET</sub>
 </p>
