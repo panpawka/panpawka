@@ -55,7 +55,7 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
       <td><b>🚀 Project</b></td>
       <td><b>📝 Description</b></td>
       <td><b>⚡ Tech Stack</b></td>
-      <td><b>🔒 Repository</b></td>
+      <td><b>🔒 Visibility</b></td>
     </tr>
   </thead>
   <tbody>
@@ -164,5 +164,5 @@ I'm currently building and shipping AI-powered SaaS applications at **Lemonode**
 </p>
 
 <p align="center">
-  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:16 CET</sub>
+  <sub>This README is automatically updated every 3 hours • Last refresh: Monday 26 January at 13:22 CET</sub>
 </p>
